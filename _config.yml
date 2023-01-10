@@ -9,8 +9,8 @@
 # --- Required options --- #
 ############################
 
-url: "http://lfsc507-test.github.io"
-baseurl: ""
+url: "http://lfsc507.github.io/lfsc507-test.github.io"
+baseurl: "lfsc507-test.github.io"
 
 # Name of website
 title: My Website
